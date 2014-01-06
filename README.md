@@ -21,3 +21,8 @@ PROPOSITIONS
 
 
 * Revoir l'accessibilité : ATAG : http://www.w3.org/WAI/intro/atag.php
+
+PROPOSITIONS CHARLED
+====================
+
+* Rendre le BE personnalisable pour permettre de créer des BE adaptés à leurs utilisateurs. Il existe des extensions pour ça sous Contao 2 mais qui fonctoinnent plus ou moins bien. Voire s'il existe qqchose pour Contao 3.
